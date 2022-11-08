@@ -66,6 +66,7 @@ h1 {
 
 .form-grp {
   margin-bottom: 0.5rem;
+  cursor: pointer;
 }
 .form-grp label {
   margin-left: 10px;
