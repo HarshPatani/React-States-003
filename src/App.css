@@ -48,6 +48,9 @@ h1 {
 .copy-btn:hover {
   background-color: #138496;
 }
+.copy-btn:active {
+  outline: 2px solid white;
+}
 .password-length {
   display: flex;
   justify-content: space-between;
