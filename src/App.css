@@ -47,6 +47,7 @@ h1 {
 }
 .copy-btn:hover {
   background-color: #138496;
+  cursor: pointer:
 }
 .copy-btn:active {
   outline: 2px solid white;
@@ -86,6 +87,7 @@ h1 {
 .generate-password:hover {
   outline: 3px solid #66dbed;
   background-color: #106a78;
+  cursor: pointer;
 }
 
 @media screen and (max-width: 480px) {
